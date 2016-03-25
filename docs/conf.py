@@ -12,7 +12,7 @@
 #
 # All configuration values have a default; values that are commented out
 # serve to show the default.
-
+from jupyter_sphinx_theme import *
 import sys
 import os
 import shlex
