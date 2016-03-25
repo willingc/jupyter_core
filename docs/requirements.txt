@@ -1,1 +1,2 @@
 traitlets>=4.0
+jupyter-sphinx-theme
